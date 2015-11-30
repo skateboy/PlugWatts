@@ -1,0 +1,110 @@
+[
+    {
+        "gridimage_link": "http://www.plugwatts.com/#",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-1.png",
+        "link": "http://www.plugwatts.com/#",
+        "value_numbers": 1,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-1.png",
+        "link/_text": "Example Collection Title",
+        "link/_source": "#",
+        "value_numbers/_source": "1",
+        "value": "1 item",
+        "gridimage_link/_source": "#"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/#",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-2.png",
+        "link": "http://www.plugwatts.com/#",
+        "value_numbers": 2,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-2.png",
+        "link/_text": "Example Collection Title",
+        "link/_source": "#",
+        "value_numbers/_source": "2",
+        "value": "2 items",
+        "gridimage_link/_source": "#"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/#",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-3.png",
+        "link": "http://www.plugwatts.com/#",
+        "value_numbers": 3,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-3.png",
+        "link/_text": "Example Collection Title",
+        "link/_source": "#",
+        "value_numbers/_source": "3",
+        "value": "3 items",
+        "gridimage_link/_source": "#"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/#",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-4.png",
+        "link": "http://www.plugwatts.com/#",
+        "value_numbers": 4,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-4.png",
+        "link/_text": "Example Collection Title",
+        "link/_source": "#",
+        "value_numbers/_source": "4",
+        "value": "4 items",
+        "gridimage_link/_source": "#"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/#",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-5.png",
+        "link": "http://www.plugwatts.com/#",
+        "value_numbers": 5,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-5.png",
+        "link/_text": "Example Collection Title",
+        "link/_source": "#",
+        "value_numbers/_source": "5",
+        "value": "5 items",
+        "gridimage_link/_source": "#"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/admin/products",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-1.png",
+        "link": "http://www.plugwatts.com/admin/products",
+        "price/_source": "$19.99",
+        "price/_currency": "USD",
+        "price": 19.99,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-1.png",
+        "link/_text": "Example Product Title",
+        "link/_source": "/admin/products",
+        "gridimage_link/_source": "/admin/products"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/admin/products",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-2.png",
+        "link": "http://www.plugwatts.com/admin/products",
+        "price/_source": "$19.99",
+        "price/_currency": "USD",
+        "price": 19.99,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-2.png",
+        "link/_text": "Example Product Title",
+        "link/_source": "/admin/products",
+        "gridimage_link/_source": "/admin/products"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/admin/products",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-3.png",
+        "link": "http://www.plugwatts.com/admin/products",
+        "price/_source": "$19.99",
+        "price/_currency": "USD",
+        "price": 19.99,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-3.png",
+        "link/_text": "Example Product Title",
+        "link/_source": "/admin/products",
+        "gridimage_link/_source": "/admin/products"
+    },
+    {
+        "gridimage_link": "http://www.plugwatts.com/admin/products",
+        "grid_image": "http://cdn.shopify.com/s/images/themes/product-4.png",
+        "link": "http://www.plugwatts.com/admin/products",
+        "price/_source": "$19.99",
+        "price/_currency": "USD",
+        "price": 19.99,
+        "grid_image/_source": "//cdn.shopify.com/s/images/themes/product-4.png",
+        "link/_text": "Example Product Title",
+        "link/_source": "/admin/products",
+        "gridimage_link/_source": "/admin/products"
+    }
+]
